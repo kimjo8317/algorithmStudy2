@@ -1,0 +1,14 @@
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\bin\Debug\net7.0\PrimeNumberCount.exe
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\bin\Debug\net7.0\PrimeNumberCount.deps.json
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\bin\Debug\net7.0\PrimeNumberCount.runtimeconfig.json
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\bin\Debug\net7.0\PrimeNumberCount.dll
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\bin\Debug\net7.0\PrimeNumberCount.pdb
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.AssemblyInfoInputs.cache
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.AssemblyInfo.cs
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.csproj.CoreCompileInputs.cache
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.dll
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\refint\PrimeNumberCount.dll
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.pdb
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\PrimeNumberCount.genruntimeconfig.cache
+C:\Users\kimjunoh\source\repos\PrimeNumberCount\obj\Debug\net7.0\ref\PrimeNumberCount.dll
